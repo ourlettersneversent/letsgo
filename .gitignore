@@ -1,13 +1,9 @@
-# Node.js / Python ignore rules
-node_modules/
-__pycache__/
-*.py[cod]
-.env
-dist/
-build/
-*.log
-.vscode/
-.idea/
-.DS_Store
-emails/
-*.zip
+letsgo_repo/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── frontend/
+├── backend/
+├── emails/
+├── assets/
+└── docs/
