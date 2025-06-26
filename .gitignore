@@ -1,0 +1,13 @@
+# Node.js / Python ignore rules
+node_modules/
+__pycache__/
+*.py[cod]
+.env
+dist/
+build/
+*.log
+.vscode/
+.idea/
+.DS_Store
+emails/
+*.zip
